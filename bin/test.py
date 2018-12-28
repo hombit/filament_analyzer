@@ -22,5 +22,5 @@ if (os.path.isdir('overscaled') == False):
 filenames_txt = glob.glob('*_*.txt')
 filenames_png = glob.glob('*_*.png')
 
-filter_over_weak(filenames_txt, filenames_png)
+filamentyzer.filter_over_weak(filenames_txt, filenames_png)
 

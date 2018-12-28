@@ -1,0 +1,13 @@
+README.md
+setup.py
+bin/test.py
+doc/filament_analyzer.filamentyzer.html
+filamentyzer/__init__.py
+filamentyzer/filamentyzer.py
+filamentyzer.egg-info/PKG-INFO
+filamentyzer.egg-info/SOURCES.txt
+filamentyzer.egg-info/dependency_links.txt
+filamentyzer.egg-info/requires.txt
+filamentyzer.egg-info/top_level.txt
+test/__init__.py
+test/unittests.py
